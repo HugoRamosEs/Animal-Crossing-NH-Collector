@@ -1,0 +1,125 @@
+.data_table {
+    grid-column: 2 / 5;
+    grid-row: 2;
+    align-self: start;
+    vertical-align: top;
+
+    table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        border: 1px solid #858585;
+        border-radius: 10px;
+        
+        thead {
+            background-color: #f5f5f5;
+        }
+
+        th {
+            border-radius: 0px;
+            width: 150px;
+
+            &:first-child {
+                border-top-left-radius: 10px;
+            }
+
+            &:last-child {
+                border-top-right-radius: 10px;
+            }
+        }
+
+        tbody {
+            tr {
+                &.nonExpandableRowOdd {
+                    background-color: #E4DAB6;
+                }
+
+                &.nonExpandableRowEven {
+                    background-color: #E0D7AF;
+                }
+
+                &.expandableRowOdd {
+                    background-color: #BBB8A5;
+                    cursor: pointer;
+                }
+
+                &.expandableRowEven {
+                    background-color: #C3BFAE;
+                    cursor: pointer;
+                }
+
+                &:last-child {
+                    td {
+                        &:first-child {
+                            border-bottom-left-radius: 10px;
+                        }
+
+                        &:last-child {
+                            border-bottom-right-radius: 10px;
+                        }
+                    }
+                }
+            }
+
+            td {
+                text-align: center;
+                vertical-align: middle;
+                width: 150px;
+                height: auto;
+                font-size: 18px;
+                position: relative;
+            }
+
+            input[type="checkbox"] {
+                margin-right: 10px;
+                accent-color: #F39906;
+                width: 36px;
+                height: 36px;
+            }
+
+            img {
+                width: 75px;
+                height: auto;
+                transition: transform 0.3s ease-in-out;
+
+                &:hover {
+                    transform: scale(1.71);
+                }
+            }
+        }
+    }
+}
+
+.subTableRow {
+    background-color: #f9f9f9;
+
+    td {
+        padding: 0;
+    }
+
+    .sub_table {
+        width: 100%;
+        margin: 0;
+        border: none;
+
+        tr {
+            &:nth-child(odd) {
+                background-color: #f2f2f2;
+            }
+
+            &:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+        }
+
+        img {
+            width: 75px;
+            height: auto;
+            transition: transform 0.3s ease-in-out;
+
+            &:hover {
+                transform: scale(1.71);
+            }
+        }
+    }
+}

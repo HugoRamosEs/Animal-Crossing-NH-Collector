@@ -1,0 +1,40 @@
+.type_filter {
+    width: 100%;
+    text-align: center;
+    border: 1px solid #858585;
+    border-radius: 10px;
+
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 10px;
+        text-align: start;
+
+        &:nth-child(odd) {
+            background-color: #E4DAB6;
+        }
+
+        &:nth-child(even) {
+            background-color: #E0D7AF;
+        }
+
+        &:last-child {
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+        }
+
+        input[type="checkbox"] {
+            margin-right: 10px;
+            accent-color: #F39906;
+            width: 18px;
+            height: 18px;
+        }
+
+        label {
+            flex-grow: 1;
+            font-size: 18px;
+            color: #333;
+        }
+    }
+}

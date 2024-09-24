@@ -1,0 +1,46 @@
+.alphabetic_filter {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border: 1px solid #858585;
+    border-radius: 10px;
+    width: 100%;
+
+    h2 {
+        width: 100%;
+    }
+
+    .letters {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+        width: 100%;
+
+        div {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            background-color: #E4DAB6;
+
+            &:nth-child(even) {
+                background-color: #E0D7AF;
+            }
+
+            input[type="checkbox"] {
+                margin-right: 10px;
+                accent-color: #F39906;
+                width: 18px;
+                height: 18px;
+            }
+
+            label {
+                font-size: 18px;
+                color: #333;
+            }
+
+            &:last-child {
+                border-bottom-left-radius: 10px;
+            }
+        }
+    }
+}

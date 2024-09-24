@@ -1,0 +1,2004 @@
+[
+    {
+        "type": "fish",
+        "name": "Amarguillo",
+        "image": "img/fish/amarguillo.png"
+    },
+    {
+        "type": "fish",
+        "name": "Anguila de listón azul",
+        "image": "img/fish/anguila_de_liston_azul.png"
+    },
+    {
+        "type": "fish",
+        "name": "Arowana",
+        "image": "img/fish/arowana.png"
+    },
+    {
+        "type": "fish",
+        "name": "Atún",
+        "image": "img/fish/atun.png"
+    },
+    {
+        "type": "fish",
+        "name": "Ayu",
+        "image": "img/fish/ayu.png"
+    },
+    {
+        "type": "fish",
+        "name": "Betta",
+        "image": "img/fish/betta.png"
+    },
+    {
+        "type": "fish",
+        "name": "Bichir ensillado",
+        "image": "img/fish/bichir_ensillado.png"
+    },
+    {
+        "type": "fish",
+        "name": "Boquerón",
+        "image": "img/fish/boqueron.png"
+    },
+    {
+        "type": "fish",
+        "name": "Caballito de mar",
+        "image": "img/fish/caballito_de_mar.png"
+    },
+    {
+        "type": "fish",
+        "name": "Cacho",
+        "image": "img/fish/cacho.png"
+    },
+    {
+        "type": "fish",
+        "name": "Calamar",
+        "image": "img/fish/calamar.png"
+    },
+    {
+        "type": "fish",
+        "name": "Cangrejo de río",
+        "image": "img/fish/cangrejo_de_rio.png"
+    },
+    {
+        "type": "fish",
+        "name": "Cangrejo de Shanghái",
+        "image": "img/fish/cangrejo_de_shanghai.png"
+    },
+    {
+        "type": "fish",
+        "name": "Carpa",
+        "image": "img/fish/carpa.png"
+    },
+    {
+        "type": "fish",
+        "name": "Carpín",
+        "image": "img/fish/carpin.png"
+    },
+    {
+        "type": "fish",
+        "name": "Celacanto",
+        "image": "img/fish/celacanto.png"
+    },
+    {
+        "type": "fish",
+        "name": "Dorada japonesa",
+        "image": "img/fish/dorada_japonesa.png"
+    },
+    {
+        "type": "fish",
+        "name": "Dorado",
+        "image": "img/fish/dorado.png"
+    },
+    {
+        "type": "fish",
+        "name": "Eperlano",
+        "image": "img/fish/eperlano.png"
+    },
+    {
+        "type": "fish",
+        "name": "Esturión",
+        "image": "img/fish/esturion.png"
+    },
+    {
+        "type": "fish",
+        "name": "Gallo",
+        "image": "img/fish/gallo.png"
+    },
+    {
+        "type": "fish",
+        "name": "Gobio de río",
+        "image": "img/fish/gobio_de_rio.png"
+    },
+    {
+        "type": "fish",
+        "name": "Gupi",
+        "image": "img/fish/gupi.png"
+    },
+    {
+        "type": "fish",
+        "name": "Jurel",
+        "image": "img/fish/jurel.png"
+    },
+    {
+        "type": "fish",
+        "name": "Jurel gigante",
+        "image": "img/fish/jurel_gigante.png"
+    },
+    {
+        "type": "fish",
+        "name": "Killi",
+        "image": "img/fish/killi.png"
+    },
+    {
+        "type": "fish",
+        "name": "Koi",
+        "image": "img/fish/koi.png"
+    },
+    {
+        "type": "fish",
+        "name": "Lampuga",
+        "image": "img/fish/lampuga.png"
+    },
+    {
+        "type": "fish",
+        "name": "Leucisco",
+        "image": "img/fish/leucisco.png"
+    },
+    {
+        "type": "fish",
+        "name": "Locha",
+        "image": "img/fish/locha.png"
+    },
+    {
+        "type": "fish",
+        "name": "Lubina",
+        "image": "img/fish/lubina.png"
+    },
+    {
+        "type": "fish",
+        "name": "Lucio",
+        "image": "img/fish/lucio.png"
+    },
+    {
+        "type": "fish",
+        "name": "Mariposa marina",
+        "image": "img/fish/mariposa_marina.png"
+    },
+    {
+        "type": "fish",
+        "name": "Morena",
+        "image": "img/fish/morena.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pargo rojo",
+        "image": "img/fish/pargo_rojo.png"
+    },
+    {
+        "type": "fish",
+        "name": "Perca",
+        "image": "img/fish/perca.png"
+    },
+    {
+        "type": "fish",
+        "name": "Perca amarilla",
+        "image": "img/fish/perca_amarilla.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez ángel",
+        "image": "img/fish/pez_angel.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez arcoíris",
+        "image": "img/fish/pez_arcoiris.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez balón",
+        "image": "img/fish/pez_balon.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez cabeza de serpiente",
+        "image": "img/fish/pez_cabeza_de_serpiente.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez cabeza transparente",
+        "image": "img/fish/pez_cabeza_transparente.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez caimán",
+        "image": "img/fish/pez_caiman.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez cirujano",
+        "image": "img/fish/pez_cirujano.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez doctor",
+        "image": "img/fish/pez_doctor.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez dorado",
+        "image": "img/fish/pez_dorado.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez erizo",
+        "image": "img/fish/pez_erizo.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez espada",
+        "image": "img/fish/pez_espada.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez globo",
+        "image": "img/fish/pez_globo.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez león",
+        "image": "img/fish/pez_leon.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez luna",
+        "image": "img/fish/pez_luna.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez mariposa",
+        "image": "img/fish/pez_mariposa.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez martillo",
+        "image": "img/fish/pez_martillo.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez napoleón",
+        "image": "img/fish/pez_napoleon.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez payaso",
+        "image": "img/fish/pez_payaso.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez remo",
+        "image": "img/fish/pez_remo.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez sierra",
+        "image": "img/fish/pez_sierra.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez sol",
+        "image": "img/fish/pez_sol.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pez telescopio",
+        "image": "img/fish/pez_telescopio.png"
+    },
+    {
+        "type": "fish",
+        "name": "Piraña",
+        "image": "img/fish/pirana.png"
+    },
+    {
+        "type": "fish",
+        "name": "Pirarucú",
+        "image": "img/fish/pirarucu.png"
+    },
+    {
+        "type": "fish",
+        "name": "Rana",
+        "image": "img/fish/rana.png"
+    },
+    {
+        "type": "fish",
+        "name": "Ranchú",
+        "image": "img/fish/ranchu.png"
+    },
+    {
+        "type": "fish",
+        "name": "Raya",
+        "image": "img/fish/raya.png"
+    },
+    {
+        "type": "fish",
+        "name": "Rémora",
+        "image": "img/fish/remora.png"
+    },
+    {
+        "type": "fish",
+        "name": "Renacuajo",
+        "image": "img/fish/renacuajo.png"
+    },
+    {
+        "type": "fish",
+        "name": "Rodaballo",
+        "image": "img/fish/rodaballo.png"
+    },
+    {
+        "type": "fish",
+        "name": "Salmón",
+        "image": "img/fish/salmon.png"
+    },
+    {
+        "type": "fish",
+        "name": "Salmón japonés",
+        "image": "img/fish/salmon_japones.png"
+    },
+    {
+        "type": "fish",
+        "name": "Salmón real",
+        "image": "img/fish/salmon_real.png"
+    },
+    {
+        "type": "fish",
+        "name": "Siluro",
+        "image": "img/fish/siluro.png"
+    },
+    {
+        "type": "fish",
+        "name": "Taimén",
+        "image": "img/fish/taimen.png"
+    },
+    {
+        "type": "fish",
+        "name": "Tetra neón",
+        "image": "img/fish/tetra_neon.png"
+    },
+    {
+        "type": "fish",
+        "name": "Tiburón",
+        "image": "img/fish/tiburon.png"
+    },
+    {
+        "type": "fish",
+        "name": "Tiburón ballena",
+        "image": "img/fish/tiburon_ballena.png"
+    },
+    {
+        "type": "fish",
+        "name": "Tilapia",
+        "image": "img/fish/tilapia.png"
+    },
+    {
+        "type": "fish",
+        "name": "Tortuga caparazón blando",
+        "image": "img/fish/tortuga_caparazon_blando.png"
+    },
+    {
+        "type": "fish",
+        "name": "Tortuga mordedora",
+        "image": "img/fish/tortuga_mordedora.png"
+    },
+    {
+        "type": "fish",
+        "name": "Trucha",
+        "image": "img/fish/trucha.png"
+    },
+    {
+        "type": "fish",
+        "name": "Trucha dorada",
+        "image": "img/fish/trucha_dorada.png"
+    },
+    {
+        "type": "bug",
+        "name": "Abeja melífera",
+        "image": "img/bug/abeja_melifera.png"
+    },
+    {
+        "type": "bug",
+        "name": "Araña",
+        "image": "img/bug/arana.png"
+    },
+    {
+        "type": "bug",
+        "name": "Avispa",
+        "image": "img/bug/avispa.png"
+    },
+    {
+        "type": "bug",
+        "name": "Cangrejo ermitaño",
+        "image": "img/bug/cangrejo_ermitano.png"
+    },
+    {
+        "type": "bug",
+        "name": "Caracol",
+        "image": "img/bug/caracol.png"
+    },
+    {
+        "type": "bug",
+        "name": "Chinche",
+        "image": "img/bug/chinche.png"
+    },
+    {
+        "type": "bug",
+        "name": "Chinche acuática gigante",
+        "image": "img/bug/chinche_acuatica_gigante.png"
+    },
+    {
+        "type": "bug",
+        "name": "Chinche con rostro humano",
+        "image": "img/bug/chinche_con_rostro_humano.png"
+    },
+    {
+        "type": "bug",
+        "name": "Ciempiés",
+        "image": "img/bug/ciempies.png"
+    },
+    {
+        "type": "bug",
+        "name": "Cigarra marrón",
+        "image": "img/bug/cigarra_marron.png"
+    },
+    {
+        "type": "bug",
+        "name": "Cigarra común",
+        "image": "img/bug/cigarra_comun.png"
+    },
+    {
+        "type": "bug",
+        "name": "Cigarra gigante",
+        "image": "img/bug/cigarra_gigante.png"
+    },
+    {
+        "type": "bug",
+        "name": "Cigarra oriental",
+        "image": "img/bug/cigarra_oriental.png"
+    },
+    {
+        "type": "bug",
+        "name": "Cigarrilla",
+        "image": "img/bug/cigarrilla.png"
+    },
+    {
+        "type": "bug",
+        "name": "Cochinilla",
+        "image": "img/bug/cochinilla.png"
+    },
+    {
+        "type": "bug",
+        "name": "Cochinilla de arena",
+        "image": "img/bug/cochinilla_de_arena.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo Ciervo cyclommatus",
+        "image": "img/bug/escarabajo_ciervo_cyclommatus.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo astado atlas",
+        "image": "img/bug/escarabajo_astado_atlas.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo astado elefante",
+        "image": "img/bug/escarabajo_astado_elefante.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo astado hércules",
+        "image": "img/bug/escarabajo_astado_hercules.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo astado japonés",
+        "image": "img/bug/escarabajo_astado_japones.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo ciervo arcoíris",
+        "image": "img/bug/escarabajo_ciervo_arcoiris.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo ciervo gigante",
+        "image": "img/bug/escarabajo_ciervo_gigante.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo ciervo jirafa",
+        "image": "img/bug/escarabajo_ciervo_jirafa.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo ciervo Miyama",
+        "image": "img/bug/escarabajo_ciervo_miyama.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo ciervo sierra",
+        "image": "img/bug/escarabajo_ciervo_sierra.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo ciervo tornasol",
+        "image": "img/bug/escarabajo_ciervo_tornasol.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo geotrúpido",
+        "image": "img/bug/escarabajo_geotrupido.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo joya",
+        "image": "img/bug/escarabajo_joya.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo nadador",
+        "image": "img/bug/escarabajo_nadador.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo oro",
+        "image": "img/bug/escarabajo_oro.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo pelotero",
+        "image": "img/bug/escarabajo_pelotero.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo rosalia batesi",
+        "image": "img/bug/escarabajo_rosalia_batesi.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo tigre",
+        "image": "img/bug/escarabajo_tigre.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo verde japonés",
+        "image": "img/bug/escarabajo_verde_japones.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escarabajo violín",
+        "image": "img/bug/escarabajo_violin.png"
+    },
+    {
+        "type": "bug",
+        "name": "Escorpión",
+        "image": "img/bug/escorpion.png"
+    },
+    {
+        "type": "bug",
+        "name": "Goliat",
+        "image": "img/bug/goliat.png"
+    },
+    {
+        "type": "bug",
+        "name": "Gorgojo azul",
+        "image": "img/bug/gorgojo_azul.png"
+    },
+    {
+        "type": "bug",
+        "name": "Grillo campana",
+        "image": "img/bug/grillo_campana.png"
+    },
+    {
+        "type": "bug",
+        "name": "Grillo cebollero",
+        "image": "img/bug/grillo_cebollero.png"
+    },
+    {
+        "type": "bug",
+        "name": "Grillo común",
+        "image": "img/bug/grillo_comun.png"
+    },
+    {
+        "type": "bug",
+        "name": "Hormiga",
+        "image": "img/bug/hormiga.png"
+    },
+    {
+        "type": "bug",
+        "name": "Insecto hoja",
+        "image": "img/bug/insecto_hoja.png"
+    },
+    {
+        "type": "bug",
+        "name": "Insecto palo",
+        "image": "img/bug/insecto_palo.png"
+    },
+    {
+        "type": "bug",
+        "name": "Langosta",
+        "image": "img/bug/langosta.png"
+    },
+    {
+        "type": "bug",
+        "name": "Langosta alargada",
+        "image": "img/bug/langosta_alargada.png"
+    },
+    {
+        "type": "bug",
+        "name": "Langosta migratoria",
+        "image": "img/bug/langosta_migratoria.png"
+    },
+    {
+        "type": "bug",
+        "name": "Libélula caballito del diablo",
+        "image": "img/bug/libelula_caballito_del_diablo.png"
+    },
+    {
+        "type": "bug",
+        "name": "Libélula damisela",
+        "image": "img/bug/libelula_damisela.png"
+    },
+    {
+        "type": "bug",
+        "name": "Libélula roja",
+        "image": "img/bug/libelula_roja.png"
+    },
+    {
+        "type": "bug",
+        "name": "Libélula tigre",
+        "image": "img/bug/libelula_tigre.png"
+    },
+    {
+        "type": "bug",
+        "name": "Longicornio asiático",
+        "image": "img/bug/longicornio_asiatico.png"
+    },
+    {
+        "type": "bug",
+        "name": "Luciérnaga",
+        "image": "img/bug/luciernaga.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mantis orquídea",
+        "image": "img/bug/mantis_orquidea.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mantis religiosa",
+        "image": "img/bug/mantis_religiosa.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa Emperador japonés",
+        "image": "img/bug/mariposa_emperador_japones.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa alas de Brooke",
+        "image": "img/bug/mariposa_alas_de_brooke.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa alas de pájaro",
+        "image": "img/bug/mariposa_alas_de_pajaro.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa bianor",
+        "image": "img/bug/mariposa_bianor.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa celeste",
+        "image": "img/bug/mariposa_celeste.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa colias",
+        "image": "img/bug/mariposa_colias.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa cometa de papel",
+        "image": "img/bug/mariposa_cometa_de_papel.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa común",
+        "image": "img/bug/mariposa_comun.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa monarca",
+        "image": "img/bug/mariposa_monarca.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa narciso",
+        "image": "img/bug/mariposa_narciso.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa tigre",
+        "image": "img/bug/mariposa_tigre.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariposa triángulo azul",
+        "image": "img/bug/mariposa_triangulo_azul.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mariquita",
+        "image": "img/bug/mariquita.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mosca",
+        "image": "img/bug/mosca.png"
+    },
+    {
+        "type": "bug",
+        "name": "Mosquito",
+        "image": "img/bug/mosquito.png"
+    },
+    {
+        "type": "bug",
+        "name": "Muda de cigarra",
+        "image": "img/bug/muda_de_cigarra.png"
+    },
+    {
+        "type": "bug",
+        "name": "Oruga de bolsón",
+        "image": "img/bug/oruga_de_bolson.png"
+    },
+    {
+        "type": "bug",
+        "name": "Polilla",
+        "image": "img/bug/polilla.png"
+    },
+    {
+        "type": "bug",
+        "name": "Polilla atlas",
+        "image": "img/bug/polilla_atlas.png"
+    },
+    {
+        "type": "bug",
+        "name": "Polilla crepuscular",
+        "image": "img/bug/polilla_crepuscular.png"
+    },
+    {
+        "type": "bug",
+        "name": "Pulga",
+        "image": "img/bug/pulga.png"
+    },
+    {
+        "type": "bug",
+        "name": "Saltamontes",
+        "image": "img/bug/saltamontes.png"
+    },
+    {
+        "type": "bug",
+        "name": "Tarántula",
+        "image": "img/bug/tarantula.png"
+    },
+    {
+        "type": "bug",
+        "name": "Zapatero",
+        "image": "img/bug/zapatero.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Acantostega",
+        "image": "img/fossil/acantostega.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Ámbar",
+        "image": "img/fossil/ambar.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Amonites",
+        "image": "img/fossil/amonites.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Anomalocaris",
+        "image": "img/fossil/anomalocaris.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Anquilosaurio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/anquilosaurio/anquilosaurio_cola.png"
+                
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/anquilosaurio/anquilosaurio_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/anquilosaurio/anquilosaurio_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Archelón",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/archelon/archelon_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/archelon/archelon_craneo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Arqueoptérix",
+        "image": "img/fossil/arqueopterix.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Australopiteco",
+        "image": "img/fossil/australopiteco.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Branquiosaurio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/branquiosaurio/branquiosaurio_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/branquiosaurio/branquiosaurio_craneo.png"
+            },
+            {
+                "part_name": "Pelvis",
+                "part_image": "img/fossil/branquiosaurio/branquiosaurio_pelvis.png"
+            },
+            {
+                "part_name": "Tórax",
+                "part_image": "img/fossil/branquiosaurio/branquiosaurio_torax.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Brontoterio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/brontoterio/brontoterio_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/brontoterio/brontoterio_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/brontoterio/brontoterio_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Coprolito",
+        "image": "img/fossil/coprolito.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Deinonico",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/deinonico/deinonico_cola.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/deinonico/deinonico_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Diente de tiburón",
+        "image": "img/fossil/diente_de_tiburon.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Dimetrodonte",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/no_asset.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/dimetrodonte/dimetrodonte_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/dimetrodonte/dimetrodonte_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Diplodocus",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/diplodocus/diplodocus_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/diplodocus/diplodocus_craneo.png"
+            },
+            {
+                "part_name": "Cuello",
+                "part_image": "img/fossil/diplodocus/diplodocus_cuello.png"
+            },
+            {
+                "part_name": "Pelvis",
+                "part_image": "img/fossil/diplodocus/diplodocus_pelvis.png"
+            },
+            {
+                "part_name": "Punta de cola",
+                "part_image": "img/fossil/diplodocus/diplodocus_punta_de_cola.png"
+            },
+            {
+                "part_name": "Tórax",
+                "part_image": "img/fossil/diplodocus/diplodocus_torax.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Dunkeosteo",
+        "image": "img/fossil/dunkeosteo.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Espinosaurio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/espinosaurio/espinosaurio_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/espinosaurio/espinosaurio_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/espinosaurio/espinosaurio_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Estegosaurio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/estegosaurio/estegosaurio_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/estegosaurio/estegosaurio_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/estegosaurio/estegosaurio_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Eustenopteron",
+        "image": "img/fossil/eustenopteron.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Iguanodonte",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/iguanodonte/iguanodonte_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/iguanodonte/iguanodonte_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/iguanodonte/iguanodonte_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Huella de dinosaurio",
+        "image": "img/fossil/huella_de_dinosaurio.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Mamut",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/mamut/mamut_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/mamut/mamut_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Megaloceros",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Mitad derecha",
+                "part_image": "img/fossil/megaloceros/megaloceros_mitad_derecha.png"
+            },
+            {
+                "part_name": "Mitad izquierda",
+                "part_image": "img/fossil/megaloceros/megaloceros_mitad_izquierda.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Myllojunmingia",
+        "image": "img/fossil/myllojunmingia.png"
+    },
+    {
+        "type": "fossil",
+        "name": "Oftalmosaurio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/oftalmosaurio/oftalmosaurio_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/oftalmosaurio/oftalmosaurio_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Paquicefalosaurio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/paquicefalosaurio/paquicefalosaurio_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/paquicefalosaurio/paquicefalosaurio_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/no_asset.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Parasaurio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/parasaurio/parasaurio_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/parasaurio/parasaurio_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/parasaurio/parasaurio_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Plesiosaurio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/plesiosaurio/plesiosaurio_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/plesiosaurio/plesiosaurio_cuerpo.png"
+            },
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/plesiosaurio/plesiosaurio_cola.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Pteranodonte",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Ala derecha",
+                "part_image": "img/fossil/pteranodonte/pteranodonte_ala_derecha.png"
+            },
+            {
+                "part_name": "Ala izquierda",
+                "part_image": "img/fossil/pteranodonte/pteranodonte_ala_izquierda.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/pteranodonte/pteranodonte_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Quetzalcoatlus",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Ala derecha",
+                "part_image": "img/fossil/quetzalcoatlus/quetzalcoatlus_ala_derecha.png"
+            },
+            {
+                "part_name": "Ala izquierda",
+                "part_image": "img/fossil/quetzalcoatlus/quetzalcoatlus_ala_izquierda.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/quetzalcoatlus/quetzalcoatlus_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Tigre dientes de sable",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/tigre_dientes_de_sable/tigre_dientes_de_sable_cola.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/tigre_dientes_de_sable/tigre_dientes_de_sable_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Tiranosaurio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/tiranosaurio/tiranosaurio_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/tiranosaurio/tiranosaurio_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/tiranosaurio/tiranosaurio_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Triceratops",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Cola",
+                "part_image": "img/fossil/triceratops/triceratops_cola.png"
+            },
+            {
+                "part_name": "Cráneo",
+                "part_image": "img/fossil/triceratops/triceratops_craneo.png"
+            },
+            {
+                "part_name": "Cuerpo",
+                "part_image": "img/fossil/triceratops/triceratops_cuerpo.png"
+            }
+        ]
+    },
+    {
+        "type": "fossil",
+        "name": "Trilobites",
+        "image": "img/fossil/trilobites.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Bodegón",
+        "image": "img/work_of_art/bodegon.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Busto antiguo",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/busto_antiguo/busto_antiguo_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/busto_antiguo/busto_antiguo_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cabeza colosal",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cabeza_colosal/cabeza_colosal_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cabeza_colosal/cabeza_colosal_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro alegórico",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_alegorico/cuadro_alegorico_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_alegorico/cuadro_alegorico_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro anatómico",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_anatomico/cuadro_anatomico_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_anatomico/cuadro_anatomico_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro clásico",
+        "image": "img/work_of_art/cuadro_clasico.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro dama",
+        "image": "img/work_of_art/cuadro_dama.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro detallado",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_detallado/cuadro_detallado_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_detallado/cuadro_detallado_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro español",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_espanol/cuadro_espanol_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_espanol/cuadro_espanol_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro flores",
+        "image": "img/work_of_art/cuadro_flores.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro holandés",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_holandes/cuadro_holandes_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_holandes/cuadro_holandes_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro invernal",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_invernal/cuadro_invernal_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_invernal/cuadro_invernal_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro japonés",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_japones/cuadro_japones_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_japones/cuadro_japones_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro literario",
+        "image": "img/work_of_art/cuadro_literario.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro naturaleza (derecha)",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_naturaleza_derecha/cuadro_naturaleza_derecha_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_naturaleza_derecha/cuadro_naturaleza_derecha_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro naturaleza (izquierda)",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_naturaleza_izquierda/cuadro_naturaleza_izquierda_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_naturaleza_izquierda/cuadro_naturaleza_izquierda_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro ola",
+        "image": "img/work_of_art/cuadro_ola.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro orgánico",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/cuadro_organico/cuadro_organico_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/cuadro_organico/cuadro_organico_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro romántico",
+        "image": "img/work_of_art/cuadro_romantico.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro segadoras",
+        "image": "img/work_of_art/cuadro_segadoras.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro tenebroso",
+        "image": "img/work_of_art/cuadro_tenebroso.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Cuadro vespertino",
+        "image": "img/work_of_art/cuadro_vespertino.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Estatua alada",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/estatua_alada/estatua_alada_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/estatua_alada/estatua_alada_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Estatua atlética",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/estatua_atletica/estatua_atletica_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/estatua_atletica/estatua_atletica_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Estatua fememnina",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/estatua_femenina/estatua_femenina_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/estatua_femenina/estatua_femenina_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Estatua guerrera",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/estatua_guerrera/estatua_guerrera_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/estatua_guerrera/estatua_guerrera_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Estatua majestuosa",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/estatua_majestuosa/estatua_majestuosa_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/estatua_majestuosa/estatua_majestuosa_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Estatua pensativa",
+        "image": "img/work_of_art/estatua_pensativa.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Estatua primitiva",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/estatua_primitiva/estatua_primitiva_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/estatua_primitiva/estatua_primitiva_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Estatua triunfante",
+        "image": "img/work_of_art/estatua_triunfante.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Estatua materna",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/estatua_materna/estatua_materna_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/estatua_materna/estatua_materna_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Paisaje estrellado",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/paisaje_estrellado/paisaje_estrellado_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/paisaje_estrellado/paisaje_estrellado_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Paisaje francés",
+        "image": "img/work_of_art/paisaje_frances.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Piedra políglota",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/piedra_poliglota/piedra_poliglota_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/piedra_poliglota/piedra_poliglota_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Retrato heroico",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/retrato_heroico/retrato_heroico_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/retrato_heroico/retrato_heroico_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Retrato holandés",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/retrato_holandes/retrato_holandes_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/retrato_holandes/retrato_holandes_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Retrato italiano",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/retrato_italiano/retrato_italiano_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/retrato_italiano/retrato_italiano_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Retrato joven",
+        "image": "img/work_of_art/retrato_joven.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Retrato músico",
+        "image": "img/work_of_art/retrato_musico.png"
+    },
+    {
+        "type": "work_of_art",
+        "name": "Retrato oriental",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/retrato_oriental/retrato_oriental_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/retrato_oriental/retrato_oriental_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Retrato perla",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/retrato_perla/retrato_perla_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/retrato_perla/retrato_perla_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Retrato regio",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/retrato_regio/retrato_regio_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/retrato_regio/retrato_regio_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "work_of_art",
+        "name": "Urna imponente",
+        "image": "",
+        "parts": [
+            {
+                "part_name": "Real",
+                "part_image": "img/work_of_art/urna_imponente/urna_imponente_real.png"
+            },
+            {
+                "part_name": "Falsa",
+                "part_image": "img/work_of_art/urna_imponente/urna_imponente_falsa.png"
+            }
+        ]
+    },
+    {
+        "type": "tree",
+        "name": "Cedro",
+        "image": "img/tree/cedro.png"
+    },
+    {
+        "type": "tree",
+        "name": "Caducifolio",
+        "image": "img/tree/caducifolio.png"
+    },
+    {
+        "type": "tree",
+        "name": "Cerezo",
+        "image": "img/tree/cerezo.png"
+    },
+    {
+        "type": "tree",
+        "name": "Manzano",
+        "image": "img/tree/manzano.png"
+    },
+    {
+        "type": "tree",
+        "name": "Melocotonero",
+        "image": "img/tree/melocotonero.png"
+    },
+    {
+        "type": "tree",
+        "name": "Naranjo",
+        "image": "img/tree/naranjo.png"
+    },
+    {
+        "type": "tree",
+        "name": "Peral",
+        "image": "img/tree/peral.png"
+    },
+    {
+        "type": "tree",
+        "name": "Cocotero",
+        "image": "img/tree/cocotero.png"
+    },
+    {
+        "type": "tree",
+        "name": "Bambú",
+        "image": "img/tree/bambu.png"
+    },
+    {
+        "type": "tree",
+        "name": "Árbol del dinero",
+        "image": "img/tree/arbol_del_dinero.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Abulón",
+        "image": "img/underwater_creature/abulon.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Alga wakame",
+        "image": "img/underwater_creature/alga_wakame.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Anémona",
+        "image": "img/underwater_creature/anemona.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Anguila jardinera",
+        "image": "img/underwater_creature/anguila_jardinera.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Babosa de mar",
+        "image": "img/underwater_creature/babosa_de_mar.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Bellota de mar",
+        "image": "img/underwater_creature/bellota_de_mar.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Bogavante",
+        "image": "img/underwater_creature/bogavante.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Buccino",
+        "image": "img/underwater_creature/buccino.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Buey del Pacífico",
+        "image": "img/underwater_creature/buey_de_pacifico.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Calamar luciérnaga",
+        "image": "img/underwater_creature/calamar_luciernaga.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Calamar vampiro",
+        "image": "img/underwater_creature/calamar_vampiro.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Camarón boreal",
+        "image": "img/underwater_creature/camaron_boreal.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Canasta de flores de Venus",
+        "image": "img/underwater_creature/canasta_de_flores_de_venus.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Cangrejo boreal",
+        "image": "img/underwater_creature/cangrejo_boreal.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Cangrejo de nieve",
+        "image": "img/underwater_creature/cangrejo_de_nieve.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Cangrejo gazami",
+        "image": "img/underwater_creature/cangrejo_gazami.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Cangrejo gigante japonés",
+        "image": "img/underwater_creature/cangrejo_gigante_japones.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Cangrejo herradura",
+        "image": "img/underwater_creature/cangrejo_herradura.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Caracola espinosa",
+        "image": "img/underwater_creature/caracola_espinosa.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Cerdo de mar",
+        "image": "img/underwater_creature/cerdo_de_mar.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Erizo de mar",
+        "image": "img/underwater_creature/erizo_de_mar.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Erizo lápiz de pizarra",
+        "image": "img/underwater_creature/erizo_lapiz_de_pizarra.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Estrella de mar",
+        "image": "img/underwater_creature/estrella_de_mar.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Gusano políclado",
+        "image": "img/underwater_creature/gusano_policlado.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Isópodo gigante",
+        "image": "img/underwater_creature/isopodo_gigante.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Langosta espinosa",
+        "image": "img/underwater_creature/langosta_espinosa.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Langosta mantis",
+        "image": "img/underwater_creature/langosta_mantis.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Langostino tigre",
+        "image": "img/underwater_creature/langostino_tigre.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Medusa luna",
+        "image": "img/underwater_creature/medusa_luna.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Mejillón",
+        "image": "img/underwater_creature/mejillon.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Nautilo",
+        "image": "img/underwater_creature/nautilo.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Ostra",
+        "image": "img/underwater_creature/ostra.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Ostra perlera",
+        "image": "img/underwater_creature/ostra_perlera.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Pepino de mar",
+        "image": "img/underwater_creature/pepino_de_mar.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Piña de mar",
+        "image": "img/underwater_creature/pina_de_mar.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Pulpo",
+        "image": "img/underwater_creature/pulpo.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Pulpo paraguas",
+        "image": "img/underwater_creature/pulpo_paraguas.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Taclobo gigante",
+        "image": "img/underwater_creature/taclobo_gigante.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Uva de mar",
+        "image": "img/underwater_creature/uva_de_mar.png"
+    },
+    {
+        "type": "underwater_creature",
+        "name": "Vieira",
+        "image": "img/underwater_creature/vieira.png"
+    }
+]
